@@ -12,3 +12,6 @@ Thumbs.db
 # AI 会话与本地记录（不公开）
 .workbuddy/
 *.log
+
+# 执行卡：给自己和 AI 用的操作说明，不公开
+执行卡.md
