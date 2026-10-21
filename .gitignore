@@ -1,0 +1,14 @@
+# 本地环境
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 教材与素材（不公开）
+*.pdf
+*.jpg
+*.png
+
+# AI 会话与本地记录（不公开）
+.workbuddy/
+*.log
