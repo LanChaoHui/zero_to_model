@@ -1,0 +1,25 @@
+# 本地环境
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 教材与素材（不公开）
+*.pdf
+
+# 图片默认不入库，只有 assets/ 下自己拍的、自己截的才放
+*.jpg
+*.jpeg
+*.png
+*.webp
+!assets/*.jpg
+!assets/*.jpeg
+!assets/*.png
+!assets/*.webp
+
+# AI 会话与本地记录（不公开）
+.workbuddy/
+*.log
+
+# 执行卡：给自己和 AI 用的操作说明，不公开
+执行卡.md
